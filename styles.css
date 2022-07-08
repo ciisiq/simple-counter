@@ -60,7 +60,7 @@ button {
 }
 
 button:hover {
-  background-color: #f7fafa;
+  background-color: #eb33bd;
 }
 
 button:focus {
@@ -90,6 +90,10 @@ button:focus {
   color: #eb33bd;
   background-color: #f5bae4;
   border: 1px solid #ffccf0;
+}
+
+.ligth-mode-button:hover {
+  background-color: #f5e7f1;
 }
 
 /* @media (prefers-color-scheme: light) {
