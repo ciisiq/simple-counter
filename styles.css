@@ -74,22 +74,22 @@ button:focus {
 }
 
 .ligth-mode {
-  background-color: #f3c6de;
+  background-color: #fff5fa;
   color: #0f1111;
 }
 
 .ligth-mode-text {
-  color: #0f1111;
+  color: #f541c5;
 }
 
 .ligth-mode-h1 {
-  color: #0f1111;
+  color: #5e6161;
 }
 
 .ligth-mode-button {
   color: #eb33bd;
-  background-color: rgb(19, 18, 18);
-  border: 1px solid #f5bae4;
+  background-color: #f5bae4;
+  border: 1px solid #ffccf0;
 }
 
 /* @media (prefers-color-scheme: light) {

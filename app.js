@@ -32,6 +32,7 @@ function goTolight() {
   increaseButton.classList.toggle("ligth-mode-button");
   decreaseButton.classList.toggle("ligth-mode-button");
   h1Element.classList.toggle("ligth-mode-h1");
+  toggleButton.classList.toggle("ligth-mode-button");
 
   if (element) {
     toggleButton.innerHTML = "Dark mode";
