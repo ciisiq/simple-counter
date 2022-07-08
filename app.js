@@ -25,13 +25,13 @@ resetButton.addEventListener("click", resetNumber);
 
 function goTolight() {
   const element = document.body;
-  element.classList.toggle("ligth-mode");
-  counterNumber.classList.toggle("ligth-mode-text");
-  resetButton.classList.toggle("ligth-mode-button");
-  increaseButton.classList.toggle("ligth-mode-button");
-  decreaseButton.classList.toggle("ligth-mode-button");
-  h1Element.classList.toggle("ligth-mode-h1");
-  toggleButton.classList.toggle("ligth-mode-button");
+  element.classList.toggle("light-mode");
+  counterNumber.classList.toggle("light-mode-text");
+  resetButton.classList.toggle("light-mode-button");
+  increaseButton.classList.toggle("light-mode-button");
+  decreaseButton.classList.toggle("light-mode-button");
+  h1Element.classList.toggle("light-mode-h1");
+  toggleButton.classList.toggle("light-mode-button");
 
   if (toggleButton.innerHTML === "Light mode") {
     toggleButton.innerHTML = "Dark mode";

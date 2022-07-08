@@ -73,26 +73,26 @@ button:focus {
   margin-top: 2rem;
 }
 
-.ligth-mode {
+.light-mode {
   background-color: #fff5fa;
   color: #0f1111;
 }
 
-.ligth-mode-text {
+.light-mode-text {
   color: #f541c5;
 }
 
-.ligth-mode-h1 {
+.light-mode-h1 {
   color: #5e6161;
 }
 
-.ligth-mode-button {
+.light-mode-button {
   color: #eb33bd;
   background-color: #f5bae4;
   border: 1px solid #ffccf0;
 }
 
-.ligth-mode-button:hover {
+.light-mode-button:hover {
   background-color: #f5e7f1;
 }
 
